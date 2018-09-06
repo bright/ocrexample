@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "918505694080",
+    "firebase_url": "https://bright-test-1193a.firebaseio.com",
+    "project_id": "bright-test-1193a",
+    "storage_bucket": "bright-test-1193a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918505694080:android:09546560b4505797",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918505694080-g4301itr1e02h115hi18odivu77a29lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcIgb5Vby2WHL0VWlBa8_LFwECgpF5zN0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918505694080:android:e312ff44170f84e8",
+        "android_client_info": {
+          "package_name": "pl.brightinventions.textdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918505694080-g4301itr1e02h115hi18odivu77a29lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcIgb5Vby2WHL0VWlBa8_LFwECgpF5zN0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
